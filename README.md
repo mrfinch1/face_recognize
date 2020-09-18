@@ -1,2 +1,2 @@
 # face_recognize
-Yüz tanıma 
+Yüz tanıma
